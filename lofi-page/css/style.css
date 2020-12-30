@@ -1,0 +1,39 @@
+body {
+	background: url('../images/pot-and-cup.jpg');  
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+#container {
+	width: 900px;
+	color: white;
+	padding: 20px;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	width: 450px;
+	border: 5px solid #F28482;
+	padding: 40px;
+	margin: 20px;
+	color: white;
+	font-size: 70px;
+	background: #F28482;
+	letter-spacing: 5px;
+}
+
+p {
+	font-family: 'Neuton', serif;
+	width: 450px;
+	border: 5px solid #e29578;
+	padding: 30px;
+	margin: 20px;
+	font-size: 30px;
+	background: #e29578;
+	color: white;
+	letter-spacing: 3px;
+}
